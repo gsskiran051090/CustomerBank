@@ -1,13 +1,13 @@
-package com.ait.bank;
+//package com.ait.bank;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class CustomerBankApplicationTests {
+//@SpringBootTest
+//class CustomerBankApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+//	@Test
+//	void contextLoads() {
+//	}
 
-}
+//}
